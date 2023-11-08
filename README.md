@@ -5,6 +5,8 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/nikandfor/tlog)](https://goreportcard.com/report/github.com/nikandfor/tlog)
 ![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/nikandfor/tlog?sort=semver)
 
+**The repo was moved to https://github.com/tlog-dev/tlog**
+
 # tlog
 
 At least it is a logger, but it is much more than that.
